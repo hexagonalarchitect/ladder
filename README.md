@@ -12,7 +12,7 @@ TBD
 
 TBD
 
-### Step 3: Cofigure the annotation processor (via annotation)
+### Step 3: Configure the annotation processor (via annotation)
 
 ```java
 @LadderConfig(outputDir = "target/generated-adr")
